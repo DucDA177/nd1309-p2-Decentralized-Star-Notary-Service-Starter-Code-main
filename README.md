@@ -1,9 +1,9 @@
 # Project Submission:
-Truffle version: v5.5.18
-OpenZeppelin version : v2.3.0
-ERC-721 Token Name: DucDA10Star
-ERC-721 Token Symbol: VND
-“Token Address” on the Rinkeby Network : 0xD11C5192520940EDa22E10dE1CEe26e0d3720DB5
+Truffle version: v5.5.18 </br>
+OpenZeppelin version : v2.3.0 </br>
+ERC-721 Token Name: DucDA10Star </br>
+ERC-721 Token Symbol: VND </br>
+“Token Address” on the Rinkeby Network : 0xD11C5192520940EDa22E10dE1CEe26e0d3720DB5 </br>
 
 # ND1309 C2 Ethereum Smart Contracts, Tokens and Dapps - Project Starter 
 **PROJECT: Decentralized Star Notary Service Project** - For this project, you will create a DApp by adding functionality with your smart contract and deploy it on the public testnet.
